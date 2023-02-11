@@ -10,4 +10,4 @@
 之后可能就要等一两年、甚至更久才会开始做正式版了。  
 
 技术交流QQ群：956223415  
-博客地址：http://www.cnblogs.com/Alberl/p/3407726.html  
+博客地址：https://blog.csdn.net/qq316293804/article/details/14162539
