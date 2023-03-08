@@ -443,9 +443,9 @@ void CDuiFrameWnd::Notify( TNotifyUI& msg )
 
                 // ActiveX调用的是系统IE内核，由于现在很多网站不兼容IE，所以会出现各种错误，不建议再使用此IE控件
                 // 这里只是展示一下加载网页的功能
-                vctURL.push_back(_T("http://msdn.microsoft.com/en-us/library/bb761691(v=vs.85).aspx"));
+                vctURL.push_back(_T("https://browser.360.cn/ee/"));
                 vctURL.push_back(_T("https://www.microsoft.com/zh-cn/download/internet-explorer.aspx"));
-                vctURL.push_back(_T("https://www.microsoft.com/zh-cn/edge"));
+                vctURL.push_back(_T("https://www.firefox.com.cn/"));
                 vctURL.push_back(_T("https://www.bilibili.com/"));
 
                 iIndex--;
