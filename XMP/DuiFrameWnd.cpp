@@ -445,8 +445,8 @@ void CDuiFrameWnd::Notify( TNotifyUI& msg )
                 // 这里只是展示一下加载网页的功能
                 vctURL.push_back(_T("https://browser.360.cn/ee/"));
                 vctURL.push_back(_T("https://www.microsoft.com/zh-cn/download/internet-explorer.aspx"));
-                vctURL.push_back(_T("https://www.firefox.com.cn/"));
                 vctURL.push_back(_T("https://www.bilibili.com/"));
+                vctURL.push_back(_T("https://www.firefox.com.cn/"));
 
                 iIndex--;
                 pActiveXUI = static_cast<CActiveXUI*>(m_PaintManager.FindControl(vctName[iIndex]));
